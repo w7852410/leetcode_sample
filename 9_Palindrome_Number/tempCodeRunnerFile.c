@@ -1,0 +1,1 @@
+printf("temp = %d",temp);
